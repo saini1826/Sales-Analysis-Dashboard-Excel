@@ -14,19 +14,20 @@ This project is an interactive Sales Analysis Dashboard built in Microsoft Excel
 5. Top 5 Products by Revenue
 6. Top 10 Cities by Orders
 7. Interactive Filters using Slicers
+8. Gender by Revenue
 ### Excel Skills Used
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning
-Conditional Formatting
-Dashboard Design
-Data Visualization
+1. Pivot Tables
+2. Pivot Charts
+3. Slicers
+4. Data Cleaning
+5. Conditional Formatting
+6. Dashboard Design
+7. Data Visualization
 ### Business Insights
-Identified the highest revenue-generating occasions and categories.
-Analyzed monthly sales trends and peak revenue periods.
-Evaluated top-performing products based on revenue.
-Compared order volume across major cities.
-Tracked customer spending patterns and delivery performance.
+1. Identified the highest revenue-generating occasions and categories.
+2. Analyzed monthly sales trends and peak revenue periods.
+3. Evaluated top-performing products based on revenue.
+4. Compared order volume across major cities.
+5. Tracked customer spending patterns and delivery performance.
 ### Project Outcome
 Developed a professional and interactive sales dashboard that converts raw sales data into actionable business insights, enabling better sales monitoring and decision-making.
